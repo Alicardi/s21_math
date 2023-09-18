@@ -1,6 +1,6 @@
 # s21_math
 
-![s21_math](/s21_math/img/s21_math.png)
+![s21_math](/img/s21_math.png)
 
 ## Содержание
 
