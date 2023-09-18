@@ -16,6 +16,7 @@
 ## Описание реализованных функций
 
 | No. | Function | Description |
+| --- | --- | --- |
 | 1 | int abs(int x) | вычисляет абсолютное значение целого числа |
 | 2 | long double acos(double x) | вычисляет арккосинус |
 | 3 | long double asin(double x) | вычисляет арксинус |
